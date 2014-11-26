@@ -1,7 +1,8 @@
 /*
-  Test.h - Test library for Wiring - implementation
-  Copyright (c) 2006 John Doe.  All right reserved.
+  timer.h - A non-blocking timer library for Arduino/Spark
+  Copyright (c) 2014 Bastian Mencke.  All right reserved.
 */
+
 
 // include this library's description file
 #include "Timer.h"
