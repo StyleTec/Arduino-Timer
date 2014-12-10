@@ -1,5 +1,5 @@
 /*
-  timer.cpp - A non-blocking timer library for Arduino/Spark
+  Timer.h - A non-blocking timer library for Arduino/Spark
   Copyright (c) 2014 Bastian Mencke.  All right reserved.
 */
 
